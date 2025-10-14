@@ -1,6 +1,6 @@
 ### 7th November 2025, Francis Crick Institute
 
-<img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
+<img width="90%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
 # Overview
 
@@ -119,5 +119,5 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
     We will start from the basics, but move quite swiftly to coding exercises – therefore, some basic experience in coding in any programming languages (including Fiji macro language) will be beneficial to make the most of this course. 
 
 <p align="center">
-	<img width="32%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="10%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
+	<img width="20%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
 </p>
