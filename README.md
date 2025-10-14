@@ -1,21 +1,18 @@
-### 27th & 28th October 2025, Francis Crick Institute
+### 7th November 2025, Francis Crick Institute
 
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
 # Overview
 
-In this workshop, we will bridge the gap between advanced microscopy data generation and the computational skills required for its analysis. By leveraging open-source tools like [FIJI](https://fiji.sc) and [Jupyter](https://jupyter.org/), participants will learn to automate image analysis, enhancing the precision, efficiency, and reproducibility of their research. This two-day event, led by experienced core facility staff from the Francis Crick Institute, offers a practical approach to mastering quantitative analysis and workflow automation, essential for advancing research across multiple domains.
+In this workshop, we will bridge the gap between advanced microscopy data generation and the computational skills required for its analysis. By leveraging open-source tools like Python and [Jupyter notebooks](https://jupyter.org/), participants will learn to automate image analysis, enhancing the precision, efficiency, and reproducibility of their research. This event, led by experienced core facility staff from the Francis Crick Institute, offers a practical approach to mastering quantitative analysis and workflow automation, essential for advancing research across multiple domains.
 
 # Registration
 
->Registration for this workshop has now closed.
+>Registration for this workshop is currently open [on Workday](https://wd3.myworkday.com/crick/learning/course/63ce9e2ca2e110014261acef84a90000?type=9882927d138b100019b6a2df1a46018b)
 
 # Instructors
+* [Stefania Marcotti, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/stefania-marcotti)
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* [Stefania Marcotti, Francis Crick Institute](https://www.linkedin.com/in/stefania-marcotti/)
-* [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
-* [Cameron Shand, Francis Crick Institute](https://www.linkedin.com/in/cameronshand/)
-* [Kimberly Meechan, UCL](https://profiles.ucl.ac.uk/96751-kimberly-meechan)
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 
 # Preparation
@@ -23,15 +20,14 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 1. Please remember to bring your laptop (and charger).
 2. Please install the required software before the workshop - follow the installation instructions on [this page](Pages/Installation-Instructions.md).
 3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
-4. You will be assigned to a specific group, with whom you will be sitting - your group number will be displayed in the training room.
-5. **PLEASE CONTACT SARA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
+4. **PLEASE CONTACT STEFANIA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
 # Program
 
 <table style="width:100%">
 	<tbody>
 		<tr>
-			<th colspan=3>Monday, October 27th 2025</th>
+			<th colspan=3>Friday, November 7th 2025</th>
 		</tr>
 		<tr>
 			<td>09:30 - 11:00</td>
@@ -57,7 +53,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>11:15 - 13:00</td>
 			<td>Session 2</td>
-			<td><p>Image Pre-Processing, Segmentation & Analysis</p></td>
+			<td><p>Image pre-processing, Segmentation and Analysis</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -65,6 +61,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 				<ul>
 					<li>Practical Applications:</li>
 					<ul>
+						<li>Variables and arrays</li>
 						<li>Basic segmentation using thresholding</li>
 						<li>Use of filtering to suppress noise</li>
 						<li>Obtaining numbers from images</li>
@@ -88,7 +85,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 				<li>Practical Applications:</li>
 				<ul>
 					<li>Counting and quantifying morphology of objects</li>
-					<li>Quantifying fluorescence intensities</li>
+					<li>Analysing datasets</li>
 				</ul>
 			</ul>
 			</td>
@@ -98,72 +95,9 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>16:15 - 17:45</td> 
+			<td>16:15 - 17:00</td> 
 			<td>Session 4</td>
-			<td><p>Exploring other functionality in FIJI</p></td>
-		</tr>
-		<tr>
-			<td>17:45</td>
-			<td colspan=2>Dinner & Drinks</td>
-		</tr>
-		<tr>
-			<th colspan=3>Tuesday, October 28th 2025</th>
-		</tr>
-		<tr>
-			<td>09:30 - 10:30</td>
-			<td>Session 5</td>
-			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 1</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Variables and arrays</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>10:30 - 10:45</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>10:45 - 12:30</td>
-			<td>Session 6</td>
-			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 2</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Practical Application: quantify morphology of objects in a 2D image with Jupyter</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>12:30 - 13:30</td>
-			<td colspan=2>Lunch</td>
-		</tr>
-		<tr>
-			<td>13:30 - 15:30</td>
-			<td>Session 7</td>
-			<td><p>Introduction to Batch Processing with Jupyter Notebooks</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Practical Application: batch processing with Jupyter</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>15:30 - 15:45</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>15:45 - 16:45</td>
-			<td>Session 8</td>
-			<td><p>Introduction to napari, wrap-up, and Q&A</p></td>
+			<td><p>Wrap-up and Q&A</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -174,26 +108,15 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
 
 ![image](https://github.com/user-attachments/assets/e49e73b8-a892-4d8b-83c2-671e5bb1626d)
 
-# Previous Workshops
-
-| Date | Venue | Content |
-| --- | --- | --- |
-| 8 / 9th April 2024 | King's College London | [Click here](Pages/KCL_2024.04.08.md)|
-| 24 / 25th April 2024 | Royal College of Surgeons in Ireland | [Click here](Pages/RCSI_2024.04.24.md)|
-| 21 / 22nd October 2024 | Francis Crick Institute | [Click here](Pages/Crick_2024.10.21.md)|
-| 8 / 9th April 2025 | University of Galway, Ireland | [Click here](Pages/Galway_2025-04-08.md)|
-| 6 & 20th June 2025 | Francis Crick Institute | [Click here](Pages/Crick_2025.06.06.md)|
-| 18 / 19th August 2025 | Francis Crick Institute | [Click here](Pages/Crick_2025.08.18.md)|
-
 # FAQ
 
-1. **Do I need any prior knowledge of image analysis, FIJI or python to attend?**
+1. **Do I need any prior knowledge of image analysis to attend?**
 
-    No, this workshop is aimed at complete beginners, but a basic understanding of image acquisition would be beneficial.
+    No, but a basic understanding of image acquisition would be beneficial.
 
 2. **Do I need to have any experience of coding?**
 
-    While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
+    We will start from the basics, but move quite swiftly to coding exercises – therefore, some basic experience in coding in any programming languages (including Fiji macro language) will be beneficial to make the most of this course. 
 
 <p align="center">
 	<img width="32%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="10%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
