@@ -1,4 +1,4 @@
-### 7th November 2025, Francis Crick Institute (internal training)
+### 7th November 2025, Francis Crick Institute
 
 <img width="90%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
