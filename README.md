@@ -32,7 +32,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>09:30 - 11:00</td>
 			<td>Session 1</td>
-			<td><p>Introduction & Installations</p></td>
+			<td><p>Introduction and Installations</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -48,10 +48,10 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		</tr>
 		<tr>
 			<td>11:00 - 11:15</td>
-			<td colspan=2>Coffee Break</td>
+			<td colspan=2>Break</td>
 		</tr>
 		<tr>
-			<td>11:15 - 13:00</td>
+			<td>11:15 - 12:45</td>
 			<td>Session 2</td>
 			<td><p>Image pre-processing, Segmentation and Analysis</p></td>
 		</tr>
@@ -59,22 +59,19 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Practical Applications:</li>
-					<ul>
-						<li>Variables and arrays</li>
-						<li>Basic segmentation using thresholding</li>
-						<li>Use of filtering to suppress noise</li>
-						<li>Obtaining numbers from images</li>
-					</ul>
+					<li>Variables and arrays</li>
+					<li>Basic segmentation using thresholding</li>
+					<li>Use of filtering to suppress noise</li>
+					<li>Obtaining numbers from images</li>
 				</ul>
 			</td>
 		</tr>
 		<tr>
-			<td>13:00 - 14:00</td>
+			<td>12:45 - 13:45</td>
 			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
-			<td>14:00 - 16:00</td> 
+			<td>13:45 - 15:45</td> 
 			<td>Session 3</td>
 			<td><p>Assembling Pipelines and Interpreting Results</p></td>
 		</tr>
@@ -82,20 +79,18 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<li>Practical Applications:</li>
-				<ul>
-					<li>Counting and quantifying morphology of objects</li>
-					<li>Analysing datasets</li>
+				<li>Counting and quantifying morphology of objects</li>
+				<li>Reproducibly analysing multiple images</li>
 				</ul>
 			</ul>
 			</td>
 		</tr>
 		<tr>
-			<td>16:00 - 16:15</td>
-			<td colspan=2>Coffee Break</td>
+			<td>15:45 - 16:00</td>
+			<td colspan=2>Break</td>
 		</tr>
 		<tr>
-			<td>16:15 - 17:00</td> 
+			<td>16:00 - 17:00</td> 
 			<td>Session 4</td>
 			<td><p>Wrap-up and Q&A</p></td>
 		</tr>
