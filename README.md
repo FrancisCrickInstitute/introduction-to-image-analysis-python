@@ -1,4 +1,4 @@
-### 7th November 2025, Francis Crick Institute
+### 7th November 2025, Francis Crick Institute (internal training)
 
 <img width="90%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
@@ -81,7 +81,6 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<ul>
 				<li>Counting and quantifying morphology of objects</li>
 				<li>Reproducibly analysing multiple images</li>
-				</ul>
 			</ul>
 			</td>
 		</tr>
