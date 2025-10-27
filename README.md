@@ -38,11 +38,17 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Who are you and why are you here?</li>
-					<li>Creating Python environments</li>
-					<li>Why manual analysis is a bad idea</li>
-					<li>Embracing uncertainty</li>
-					<li>What is metadata and why do you need it</li>
+					<li>Stefania Marcotti</li>
+					<ul>
+						<li>Who are you and why are you here?</li>
+						<li>Creating Python environments</li>
+					</ul>
+					<li>Sara Salgueiro Torres</li>
+					<ul>
+						<li>Why manual analysis is a bad idea</li>
+						<li>Embracing uncertainty</li>
+						<li>What is metadata and why do you need it</li>
+					</ul>
 				</ul>
 			</td>
 		</tr>
@@ -59,10 +65,13 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Variables and arrays</li>
-					<li>Basic segmentation using thresholding</li>
-					<li>Use of filtering to suppress noise</li>
-					<li>Obtaining numbers from images</li>
+					<li>Stefania Marcotti</li>
+					<ul>
+						<li>Variables and arrays</li>
+						<li>Basic segmentation using thresholding</li>
+						<li>Use of filtering to suppress noise</li>
+						<li>Obtaining numbers from images</li>
+					</ul>
 				</ul>
 			</td>
 		</tr>
@@ -79,8 +88,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<li>Counting and quantifying morphology of objects</li>
-				<li>Reproducibly analysing multiple images</li>
+				<li>Stefania Marcotti</li>
+				<ul>
+					<li>Counting and quantifying morphology of objects</li>
+					<li>Reproducibly analysing multiple images</li>
+				</ul>
 			</ul>
 			</td>
 		</tr>
