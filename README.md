@@ -114,6 +114,11 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
 
 ![image](https://github.com/user-attachments/assets/e49e73b8-a892-4d8b-83c2-671e5bb1626d)
 
+# Slides
+
+* [Installations](https://docs.google.com/presentation/d/1NGU8I60WOj5qWUZF_SI6OTAjYHT3UiskKHvghLyzHAc/edit?usp=sharing)
+* [Introduction]()
+
 # FAQ
 
 1. **Do I need any prior knowledge of image analysis to attend?**
