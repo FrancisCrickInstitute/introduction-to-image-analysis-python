@@ -118,6 +118,7 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
 
 * [Installations](https://docs.google.com/presentation/d/1NGU8I60WOj5qWUZF_SI6OTAjYHT3UiskKHvghLyzHAc/edit?usp=sharing)
 * [Introduction]()
+* [Wrap-up](https://docs.google.com/presentation/d/1o-OdsYyjFt2m7Zhdggdn7MxVyQZ9tvyXfIdNUeX3kho/edit?usp=sharing)
 
 # FAQ
 
