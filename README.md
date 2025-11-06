@@ -8,7 +8,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Registration
 
->Registration for this workshop is currently open [on Workday](https://wd3.myworkday.com/crick/learning/course/63ce9e2ca2e110014261acef84a90000?type=9882927d138b100019b6a2df1a46018b)
+>Registration for this workshop is currently closed.
 
 # Instructors
 * [Stefania Marcotti, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/stefania-marcotti)
